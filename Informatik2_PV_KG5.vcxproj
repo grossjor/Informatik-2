@@ -142,7 +142,7 @@
     <ClInclude Include="Auto.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Quelle.cpp" />
+    <ClCompile Include="Quelle01.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
