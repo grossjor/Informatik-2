@@ -1,3 +1,4 @@
+// V01: test von Auto.h & Funktionen
 #include "Auto.h"
 #include <iostream>
 #include <string>
